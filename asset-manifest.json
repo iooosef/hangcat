@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hangcat/static/css/main.60b6e13d.css",
-    "main.js": "/hangcat/static/js/main.190731f8.js",
+    "main.js": "/hangcat/static/js/main.c1f5a3a7.js",
     "static/js/488.38e3cc91.chunk.js": "/hangcat/static/js/488.38e3cc91.chunk.js",
     "index.html": "/hangcat/index.html",
     "main.60b6e13d.css.map": "/hangcat/static/css/main.60b6e13d.css.map",
-    "main.190731f8.js.map": "/hangcat/static/js/main.190731f8.js.map",
+    "main.c1f5a3a7.js.map": "/hangcat/static/js/main.c1f5a3a7.js.map",
     "488.38e3cc91.chunk.js.map": "/hangcat/static/js/488.38e3cc91.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60b6e13d.css",
-    "static/js/main.190731f8.js"
+    "static/js/main.c1f5a3a7.js"
   ]
 }
