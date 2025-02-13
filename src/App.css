@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+}
+
+.hangman img {
+  display: inline-block;
+}
+
+.word {
+  font-size: 3.5em;
+  margin: 20px;
+}
+
+.letter {
+  margin: 0 5px;
+}
+
+.keyboard button {
+  margin: 5px;
+  padding: 10px;
+  font-size: 2em;
+}
+
+.message {
+  margin-top: 20px;
+}
+
+.message > button {
+  font-size: 2em;
+}
+
+.noose {
+  max-height: 360px;
+}
+
+.hangman-part {
+  max-width: 100px;
+}
+
+.letter-btn {
+  margin: 5px;
+  padding: 10px;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+}
+
+.letter-btn.correct {
+  background-color: green;
+  color: white;
+}
+
+.letter-btn.wrong {
+  background-color: red;
+  color: white;
+}
